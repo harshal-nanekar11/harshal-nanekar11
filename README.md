@@ -40,5 +40,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshal-nanekar11&show_icons=true&theme=radium&hide_border=true" alt="Harshal's GitHub Stats" />
+  <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=harshal-nanekar11&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-nanekar11&theme=radium&hide_border=true" alt="GitHub Streak" />
 </p>
